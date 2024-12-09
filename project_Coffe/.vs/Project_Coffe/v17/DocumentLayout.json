@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\project_Coffe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelrealization\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelrealization\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelrealization\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelrealization\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\migrations\\20241202184921_nitialreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\migrations\\20241202184921_nitialreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\migrations\\20241202184921_nitialreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\migrations\\20241202184921_nitialreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\dto\\createorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\dto\\createorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\dto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\dto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelinterface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelinterface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelrealization\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelrealization\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelinterface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelinterface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelinterface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelinterface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelinterface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelinterface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\models\\modelrealization\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\models\\modelrealization\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\project_coffe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\project_coffe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|c:\\users\\student\\desktop\\project_coffe\\project_coffe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEAD433B-DE68-44B4-83BE-7A75ED42BEFB}|Project_Coffe\\Project_Coffe.csproj|solutionrelative:project_coffe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Project_Coffe.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Project_Coffe.csproj",
+              "RelativeDocumentMoniker": "Project_Coffe\\Project_Coffe.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Project_Coffe.csproj",
+              "RelativeToolTip": "Project_Coffe\\Project_Coffe.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T17:32:01.527Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_Coffe\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\appsettings.json",
+              "RelativeToolTip": "Project_Coffe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T16:39:24.037Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\OrderService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelRealization\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\OrderService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelRealization\\OrderService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:08:06.633Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Project_Coffe\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:06:22.964Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\UserService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelRealization\\UserService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\UserService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelRealization\\UserService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA9wAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:57:25.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelInterface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IUserService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelInterface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:09:55.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelInterface\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IAuthenticationService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelInterface\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:14:03.653Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelRealization\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\AuthenticationService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelRealization\\AuthenticationService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:55:17.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\DTO\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\DTO\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\DTO\\CreateOrderDTO.cs",
+              "RelativeToolTip": "Project_Coffe\\DTO\\CreateOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:19:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Project_Coffe\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAwKsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:56:02.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241202184921_nitialreate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Migrations\\20241202184921_nitialreate.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Migrations\\20241202184921_nitialreate.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Migrations\\20241202184921_nitialreate.cs",
+              "RelativeToolTip": "Project_Coffe\\Migrations\\20241202184921_nitialreate.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAswI8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:56:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241202184921_nitialreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Migrations\\20241202184921_nitialreate.Designer.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Migrations\\20241202184921_nitialreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Migrations\\20241202184921_nitialreate.Designer.cs",
+              "RelativeToolTip": "Project_Coffe\\Migrations\\20241202184921_nitialreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:11:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\DTO\\CreateOrderProductDTO.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\DTO\\CreateOrderProductDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\DTO\\CreateOrderProductDTO.cs",
+              "RelativeToolTip": "Project_Coffe\\DTO\\CreateOrderProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:06:04.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Entities\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\OrderProduct.cs",
+              "RelativeToolTip": "Project_Coffe\\Entities\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:14:20.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project_Coffe\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:14:20.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\Product.cs",
+              "RelativeToolTip": "Project_Coffe\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:12:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\DTO\\UpdateOrderDTO.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\DTO\\UpdateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\DTO\\UpdateOrderDTO.cs",
+              "RelativeToolTip": "Project_Coffe\\DTO\\UpdateOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\Order.cs",
+              "RelativeToolTip": "Project_Coffe\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:10:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project_Coffe\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAD4vz4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:05:37.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Project_Coffe\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowFsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:48:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\User.cs",
+              "RelativeToolTip": "Project_Coffe\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:12:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IProductService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelInterface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IProductService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelInterface\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:39:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\ProductService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelRealization\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelRealization\\ProductService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelRealization\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:08:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\Jwt.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Entities\\Jwt.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Entities\\Jwt.cs",
+              "RelativeToolTip": "Project_Coffe\\Entities\\Jwt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:37:21.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Models\\ModelInterface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Models\\ModelInterface\\IOrderService.cs",
+              "RelativeToolTip": "Project_Coffe\\Models\\ModelInterface\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:51:38.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Coffe\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\Program.cs",
+              "RelativeToolTip": "Project_Coffe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:08:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Project_Coffe\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\project_Coffe\\Project_Coffe\\appsettings.Development.json",
+              "RelativeToolTip": "Project_Coffe\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T17:47:34.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
